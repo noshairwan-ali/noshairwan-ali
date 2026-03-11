@@ -4,30 +4,33 @@
 
 <h2 align="center">AI Engineer | Machine Learning | Deep Learning | Data Science 🤖📊</h2>
 
-<div align="center"> 
-I’m <b>Noshairwan Ali</b> — an <b>AI & Machine Learning Engineer</b> passionate about building intelligent systems that transform data into meaningful insights and powerful automation.  
-My work focuses on designing machine learning models, building scalable data pipelines, and developing AI solutions that solve real-world problems.  
+<div align="center">
+
+I'm <b>Noshairwan Ali</b>, an AI and Machine Learning enthusiast focused on building intelligent and data-driven systems.
+
+My work revolves around developing machine learning models, exploring deep learning techniques, and transforming complex datasets into meaningful insights. I enjoy designing practical AI solutions that can solve real-world problems while continuously learning and improving through experimentation.
+
+I primarily work with Python and modern AI frameworks to build scalable machine learning pipelines, train deep learning models, and develop applications in Natural Language Processing and Computer Vision.
+
 </div>
 
 <br>
 
-<div align="center"> 
-🤖 Skilled in building and training <b>Machine Learning</b> and <b>Deep Learning</b> models using modern AI frameworks.  
-📊 Experienced in <b>Data Analysis</b>, <b>Data Processing</b>, and transforming raw datasets into actionable insights.  
-⚡ Proficient with <b>Python-based AI ecosystems</b> for developing scalable and efficient AI solutions.  
+<div align="center">
+
+🧠 Building Machine Learning and Deep Learning models  
+📊 Data Analysis, Data Processing, and Model Development  
+⚡ Developing AI solutions using Python and modern ML frameworks  
+💻 Working in Linux environments with Git-based workflows  
+
 </div>
 
 <br>
 
-<div align="center"> 
-🧠 Experienced in working with <b>Neural Networks</b>, <b>Natural Language Processing (NLP)</b>, and <b>Computer Vision</b> applications.  
-💻 Comfortable working in <b>Linux environments</b> with <b>Git-based workflows</b> while building intelligent, data-driven systems.  
-</div>
+<div align="center">
 
-<br>
+💡 I believe AI is not just about algorithms — it's about using data, intelligence, and automation to create systems that learn, adapt, and continuously improve.
 
-<div align="center"> 
-💡 I believe AI is more than just algorithms — it's about using data, intelligence, and automation to create systems that continuously learn, adapt, and improve.
 </div>
 
 <br>
@@ -46,5 +49,30 @@ My work focuses on designing machine learning models, building scalable data pip
 <h2 align="center">🚀 AI & Machine Learning Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib,seaborn,jupyter,anaconda,linux,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,anaconda,linux,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=noshairwan-ali&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshairwan-ali&layout=compact&theme=tokyonight"/>
+
 </div>
