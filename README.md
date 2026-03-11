@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=6C22A6&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Noshairwan+Ali+🤖;" />
 </h1>
 
-<h2 align="center">AI Engineer | Machine Learning | Deep Learning | Data Science 🤖📊</h2>
+<h2 align="center">AI Engineer | Machine Learning | Deep Learning | Data Science</h2>
 
 <div align="center">
 
-I'm <b>Noshairwan Ali</b>, an AI and Machine Learning enthusiast focused on building intelligent and data-driven systems.
+I’m <b>Noshairwan Ali</b>, an aspiring <b>Artificial Intelligence and Machine Learning Engineer</b> with a strong interest in building intelligent systems that transform data into meaningful insights.
 
-My work revolves around developing machine learning models, exploring deep learning techniques, and transforming complex datasets into meaningful insights. I enjoy designing practical AI solutions that can solve real-world problems while continuously learning and improving through experimentation.
+My focus lies in developing machine learning models, exploring deep learning architectures, and applying data-driven approaches to solve real-world problems. I enjoy working with complex datasets, experimenting with modern AI frameworks, and continuously improving models through research, experimentation, and iterative development.
 
-I primarily work with Python and modern AI frameworks to build scalable machine learning pipelines, train deep learning models, and develop applications in Natural Language Processing and Computer Vision.
+I am particularly interested in areas such as <b>Machine Learning</b>, <b>Natural Language Processing</b>, and <b>Computer Vision</b>, where intelligent systems can automate tasks, extract knowledge from data, and support better decision-making.
 
 </div>
 
@@ -18,10 +18,10 @@ I primarily work with Python and modern AI frameworks to build scalable machine 
 
 <div align="center">
 
-🧠 Building Machine Learning and Deep Learning models  
-📊 Data Analysis, Data Processing, and Model Development  
-⚡ Developing AI solutions using Python and modern ML frameworks  
-💻 Working in Linux environments with Git-based workflows  
+🧠 Machine Learning and Deep Learning Model Development  
+📊 Data Analysis, Feature Engineering, and Model Optimization  
+⚡ AI Solution Development using Python and modern ML frameworks  
+💻 Linux-based development environments with Git version control  
 
 </div>
 
@@ -29,19 +29,22 @@ I primarily work with Python and modern AI frameworks to build scalable machine 
 
 <div align="center">
 
-💡 I believe AI is not just about algorithms — it's about using data, intelligence, and automation to create systems that learn, adapt, and continuously improve.
+💡 I view Artificial Intelligence as a powerful intersection of data, algorithms, and problem-solving — enabling systems that can learn from information, adapt to new situations, and continuously improve over time.
 
 </div>
 
 <br>
 
-<div align="center"> 
-  <a href="mailto:aliimtiaz.dev@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D71313?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ali-imtiaz1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
+
+<a href="mailto:noshairwanalihere@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D71313?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/syed-muhammad-noshairwan-5689b2385" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -62,17 +65,5 @@ I primarily work with Python and modern AI frameworks to build scalable machine 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=noshairwan-ali&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshairwan-ali&layout=compact&theme=tokyonight"/>
 
 </div>
